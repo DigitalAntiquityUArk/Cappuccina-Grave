@@ -1,3 +1,3 @@
 # Cappuccina-Grave
 Emily Bass and Angela Lorkowski
-This is our final project on the cappuccina grave found in Area B.
+This is our final project on Tomb 34 (a cappuccina grave) found in Area B. In our Unity project we created a Gabii Museum with several 3D models of graves on "exhibit." The Unity game begins by having the player walk up to the museum, and along the way there are signs that explain that the current exhibit is on Tomb 34 which is a cappuccina grave in Area B. The exhibit also includes a cappuccina grave from Area A, a clay sarcophagus in Area B, and an infant burial in Area B. These different types of graves serve as a way to show what kind of graves have been found at Gabii and some of the important facts surrounding these graves. Our hope is that the player will learn about some of the graves at Gabii, learn what a cappuccina grave is, and learn about some of the significance behind different types of graves.
