@@ -2015,6 +2015,7 @@
 		.image img {
 			display: block;
 			border-radius: 5px;
+			width:100%;
 		}
 
 		.image.left {
