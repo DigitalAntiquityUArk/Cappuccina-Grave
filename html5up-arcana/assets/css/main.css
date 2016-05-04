@@ -9,7 +9,7 @@
 
 /*custom*/
 #Gabiibanner{
-background-image: url('images/Gabiibanner.jpg');
+background-image: src="images/Gabiibanner.jpg";
 width: 100%;
 }
 /* Reset */
